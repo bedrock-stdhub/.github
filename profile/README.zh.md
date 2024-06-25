@@ -12,8 +12,6 @@
 
 ## 相较前人的优点
 
-Sadly, traditional ways to enhance BDS (e.g. [LeviLamina](https://github.com/LiteLDev/LeviLamina) a.k.a. LiteLoaderBDS) has reached their end. While bedrock-stdhub may become the only solution for a long time in the future, it still boasts some other advantages.
-
 传统的增强 BDS 的方式 (例如 [LeviLamina](https://github.com/LiteLDev/LeviLamina)，前身是 LiteLoaderBDS) 已经走上了末路。bedrock-stdhub 有可能在很长一段时间内成为唯一的增强 BDS 的渠道，同时也具有其它的一些优点。
 
 - **官方支持**：bedrock-stdhub 只是提供了一些额外的 API 来让插件 “打破” Scripting 的沙盒环境。由 bedrock-stdhub 加载的插件仍然强烈依赖由 Microsoft 提供支持的官方 API。
